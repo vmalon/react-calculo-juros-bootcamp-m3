@@ -1,0 +1,8 @@
+.inputs {
+  display: flex;
+  padding-right: 10px;
+}
+
+.input {
+    padding-right: 40px;
+}

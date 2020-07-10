@@ -1,0 +1,36 @@
+.card {
+  border: 1px solid lightgray;
+  border-radius: 2%;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 200px;
+  height: 150px;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.font {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.fontRed {
+  font-weight: bold;
+  color: red;
+}
+
+.fontGreen {
+  font-weight: bold;
+  color: green;
+}
